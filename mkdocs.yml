@@ -1,0 +1,29 @@
+site_name: CodeURJC - Trabajos Fin de Grado
+site_url: https://tfg.codeurjc.es/
+site_description: Repositorio de Trabajos Fin de Grado
+
+nav:
+  - Inicio: index.md
+  - Trabajos Fin de Grado:
+      - Diseño E Implementación De Una Arquitectura Para La Orquestación De Modelos De Inteligencia Artificial En Entornos Cloud: tfgs/2025-10-15-diseno-implementacion-una-arquitectura-para-orquestacion/index.md
+      - Healthcarer- Una Aplicación Web Orientada A La Gestión Y Seguimiento De Los Tratamientos Médicos: tfgs/2025-09-15-healthcarer-una-aplicacion-web-orientada-gestion/index.md
+    # - Exercise4You- Una Aplicación Web Para La Gestión De Pacientes Y La Prescripción De Ejercicio Físico: tfgs/2024-11-15-exercise4you-una-aplicacion-web-para-gestion/index.md
+    # - Alcalapp- Una Aplicación Web Para La Gestión De Tareas E Incidencias En Equipos De Desarrollo: tfgs/2024-11-15-alcalapp-una-aplicacion-web-para-gestion/index.md
+    # - Uipath. Una Herramienta Para La Automatización De Pruebas Y Procesos: tfgs/2024-07-15-uipath-una-herramienta-para-automatizacion-pruebas/index.md
+    # - Laboticademar- Tienda Online Para La Venta De Productos De Parafarmacia: tfgs/2024-07-15-laboticademar-tienda-online-para-venta-productos/index.md
+    # - Desarrollo Y Despliegue De Una Aplicación Web Para La Gestión De Citas En Una Clínica De Nutrición: tfgs/2024-07-15-desarrollo-despliegue-una-aplicacion-web-para/index.md
+    # - Moai- Aplicación Web Para La Gestión De Comunidades De Vecinos: tfgs/2024-06-15-moai-aplicacion-web-para-gestion-comunidades/index.md
+    # - Aplicación De Metodologías De Calidad Software En El Desarrollo De Un Juego Web Online: tfgs/2024-06-15-aplicacion-metodologias-calidad-software-desarrollo-juego/index.md
+    # - Análisis De Vulnerabilidades Con Ayuda De Modelos Grandes De Lenguaje: tfgs/2024-06-15-analisis-vulnerabilidades-con-ayuda-modelos-grandes/index.md
+    # - Quantum Library- Desarrollo De Una Aplicación Para La Gestión De Colecciones De Multimedia: tfgs/2024-05-15-quantum-library-desarrollo-una-aplicacion-para/index.md
+    # - Desarrollo De Una Aplicación De Chat En Tiempo Real: tfgs/2024-02-15-desarrollo-una-aplicacion-chat-tiempo-real/index.md
+    # - Smilelink: tfgs/2023-06-15-smilelink/index.md
+    # - Outsider- Un Juego Online En Tiempo Real: tfgs/2023-06-15-outsider-juego-online-tiempo-real/index.md
+    # - Enterpriseeventsolutions: Un Saas Pensado Para La Organización De Eventos O Seminarios: tfgs/2023-06-15-enterpriseeventsolutions-saas-pensado-para-organizacion-eventos/index.md
+    # - Cowordle- Un Juego Competitivo Online: tfgs/2022-07-15-cowordle-juego-competitivo-online/index.md
+    # - Openvpn4All- Suite Para La Creación Y Gestión De Un Servidor Vpn: tfgs/2022-06-15-openvpn4all-suite-para-creacion-gestion-servidor/index.md
+    # - Estudio De Sistemas De Integración Continua De Proyectos Github Y Gitlab: tfgs/2021-06-15-estudio-sistemas-integracion-continua-proyectos-github/index.md
+    # - Construcción De Dataset De Pruebas End-To-End De Proyectos Github: tfgs/2020-07-15-construccion-dataset-pruebas-end-to-end-proyectos-github/index.md
+
+extra_css:
+  - style.css
