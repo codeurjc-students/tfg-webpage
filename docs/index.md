@@ -1,6 +1,6 @@
 # Trabajos Fin de Grado
 
-Bienvenido al repositorio de Trabajos Fin de Grado de la Universidad Rey Juan Carlos. Aquí encontrarás una colección de proyectos desarrollados por nuestros estudiantes que destacan por su calidad técnica e innovación.
+Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC. 
 
 ## Todos los Trabajos
 

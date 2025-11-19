@@ -60,8 +60,6 @@ Descripción breve del proyecto...
 - 📄 [Descargar Memoria PDF](memoria.pdf)
 - 💻 [Repositorio GitHub](https://github.com/usuario/repo)
 
-## Tecnologías
-
 <div class="tfg-tags">
 <span class="tag">tag1</span>
 <span class="tag">tag2</span>
@@ -107,10 +105,8 @@ Edita `mkdocs.yml` y añade el nuevo TFG en la sección `nav`:
 nav:
   - Inicio: index.md
   - Trabajos Fin de Grado:
-    - Sistema de Gestión de Inventarios: tfgs/2024-06-15-sistema-gestion-inventarios/index.md
-    - Chatbot Inteligente: tfgs/2024-09-20-chatbot-atencion-cliente/index.md
-    - App Móvil de Salud: tfgs/2024-07-10-app-movil-salud/index.md
-    - Nuevo TFG: tfgs/2024-06-15-nombre-del-tfg/index.md  # <-- Añadir aquí
+    - ...
+    -New TFG title: tfgs/2024-06-15-nombre-del-tfg/index.md  # <-- Añadir aquí
 ```
 
 ### 6. Previsualizar los cambios
