@@ -10,7 +10,7 @@
 **Autor/a:** Jesús Martín Trilla  
 **Grado:** Doble Grado en Ingeniería Informática y Matemáticas  
 **Tutor:** Michel Maes Bermejo  
-**Fecha de defensa:** noviembre de 2024
+**Fecha de defensa:** Noviembre de 2024
 
 ## Resumen
 

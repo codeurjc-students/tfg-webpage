@@ -8,8 +8,8 @@
 </div>
 **Autor/a:** Jorge Contreras Padilla  
 **Grado:** Doble Grado en Ingeniería Informática e Ingeniería De Computadores  
-**Tutor:** Michel Maes Bermejo  
-**Fecha de defensa:** julio de 2021
+**Tutor:** Francisco Gortázar Bellas y Michel Maes Bermejo  
+**Fecha de defensa:** Julio de 2021
 
 ## Resumen
 

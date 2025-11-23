@@ -9,7 +9,7 @@
 **Autor/a:** Aitor García Camargo  
 **Grado:** Grado En Ingeniería De Computadores  
 **Tutor:** Michel Maes Bermejo  
-**Fecha de defensa:** febrero de 2025
+**Fecha de defensa:** Febrero de 2025
 
 ## Resumen
 
