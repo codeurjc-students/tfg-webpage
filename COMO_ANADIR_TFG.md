@@ -26,7 +26,7 @@ Dentro de la carpeta del TFG, crea un archivo `index.md` con la siguiente estruc
 
 ## Información General
 
-**Autor:** Nombre del Estudiante  
+**Autor/a:** Nombre del Estudiante  
 **Grado:** Nombre del Grado  
 **Tutor(es):** Nombre del/los Tutor(es)  
 **Fecha de defensa:** DD de mes de AAAA  
