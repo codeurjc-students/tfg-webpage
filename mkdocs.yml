@@ -5,25 +5,25 @@ site_description: Repositorio de Trabajos Fin de Grado
 nav:
   - Inicio: index.md
   - Trabajos Fin de Grado:
-      - Diseño e implementación de una arquitectura para la orquestación de modelos de inteligencia artificial en entornos cloud: tfgs/2025-10-15-diseno-implementacion-una-arquitectura-para-orquestacion/index.md
-      - Healthcarer - Una aplicación web orientada a la gestión y seguimiento de los tratamientos médicos: tfgs/2025-09-15-healthcarer-una-aplicacion-web-orientada-gestion/index.md
-      - Exercise4You - Una aplicación web para la gestión de pacientes y la prescripción de ejercicio físico: tfgs/2024-11-15-exercise4you-una-aplicacion-web-para-gestion/index.md
-      - Alcalapp - Una aplicación web para la gestión de tareas e incidencias en equipos de desarrollo: tfgs/2024-11-15-alcalapp-una-aplicacion-web-para-gestion/index.md
-      - UiPath - Una herramienta para la automatización de pruebas y procesos: tfgs/2024-07-15-uipath-una-herramienta-para-automatizacion-pruebas/index.md
-      - Laboticademar - Tienda online para la venta de productos de parafarmacia: tfgs/2024-07-15-laboticademar-tienda-online-para-venta-productos/index.md
-      - Desarrollo y despliegue de una aplicación web para la gestión de citas en una clínica de nutrición: tfgs/2024-07-15-desarrollo-despliegue-una-aplicacion-web-para/index.md
-      - Moai - Aplicación web para la gestión de comunidades de vecinos: tfgs/2024-06-15-moai-aplicacion-web-para-gestion-comunidades/index.md
-      - Aplicación de metodologías de calidad software en el desarrollo de un juego web online: tfgs/2024-06-15-aplicacion-metodologias-calidad-software-desarrollo-juego/index.md
-      - Análisis de vulnerabilidades con ayuda de modelos grandes de lenguaje: tfgs/2024-06-15-analisis-vulnerabilidades-con-ayuda-modelos-grandes/index.md
-      - Quantum Library - Desarrollo de una aplicación para la gestión de colecciones de multimedia: tfgs/2024-05-15-quantum-library-desarrollo-una-aplicacion-para/index.md
-      - Desarrollo de una aplicación de chat en tiempo real: tfgs/2024-02-15-desarrollo-una-aplicacion-chat-tiempo-real/index.md
-      - Smilelink: tfgs/2023-06-15-smilelink/index.md
-      - Outsider - Un juego online en tiempo real: tfgs/2023-06-15-outsider-juego-online-tiempo-real/index.md
-      - EnterpriseEventSolutions - Un SaaS pensado para la organización de eventos o seminarios: tfgs/2023-06-15-enterpriseeventsolutions-saas-pensado-para-organizacion-eventos/index.md
-      - Cowordle - Un juego competitivo online: tfgs/2022-07-15-cowordle-juego-competitivo-online/index.md
-      - OpenVPN4All - Suite para la creación y gestión de un servidor VPN: tfgs/2022-06-15-openvpn4all-suite-para-creacion-gestion-servidor/index.md
-      - Estudio de sistemas de integración continua de proyectos GitHub y GitLab: tfgs/2021-06-15-estudio-sistemas-integracion-continua-proyectos-github/index.md
-      - Construcción de dataset de pruebas end-to-end de proyectos GitHub: tfgs/2020-07-15-construccion-dataset-pruebas-end-to-end-proyectos-github/index.md
+      - Diseño e implementación de una arquitectura para la orquestación de modelos de inteligencia artificial en entornos cloud: tfgs/2025/10-diseno-implementacion-una-arquitectura-para-orquestacion/index.md
+      - Healthcarer - Una aplicación web orientada a la gestión y seguimiento de los tratamientos médicos: tfgs/2025/09-healthcarer-una-aplicacion-web-orientada-gestion/index.md
+      - Exercise4You - Una aplicación web para la gestión de pacientes y la prescripción de ejercicio físico: tfgs/2024/11-exercise4you-una-aplicacion-web-para-gestion/index.md
+      - Alcalapp - Una aplicación web para la gestión de tareas e incidencias en equipos de desarrollo: tfgs/2024/11-alcalapp-una-aplicacion-web-para-gestion/index.md
+      - UiPath - Una herramienta para la automatización de pruebas y procesos: tfgs/2025/07-uipath-una-herramienta-para-automatizacion-pruebas/index.md
+      - Laboticademar - Tienda online para la venta de productos de parafarmacia: tfgs/2025/07-laboticademar-tienda-online-para-venta-productos/index.md
+      - Desarrollo y despliegue de una aplicación web para la gestión de citas en una clínica de nutrición: tfgs/2025/07-desarrollo-despliegue-una-aplicacion-web-para/index.md
+      - Moai - Aplicación web para la gestión de comunidades de vecinos: tfgs/2025/06-moai-aplicacion-web-para-gestion-comunidades/index.md
+      - Aplicación de metodologías de calidad software en el desarrollo de un juego web online: tfgs/2025/06-aplicacion-metodologias-calidad-software-desarrollo-juego/index.md
+      - Análisis de vulnerabilidades con ayuda de modelos grandes de lenguaje: tfgs/2025/06-analisis-vulnerabilidades-con-ayuda-modelos-grandes/index.md
+      - Quantum Library - Desarrollo de una aplicación para la gestión de colecciones de multimedia: tfgs/2025/05-quantum-library-desarrollo-una-aplicacion-para/index.md
+      - Desarrollo de una aplicación de chat en tiempo real: tfgs/2025/02-desarrollo-una-aplicacion-chat-tiempo-real/index.md
+      - Smilelink: tfgs/2024/06-smilelink/index.md
+      - Outsider - Un juego online en tiempo real: tfgs/2024/06-outsider-juego-online-tiempo-real/index.md
+      - EnterpriseEventSolutions - Un SaaS pensado para la organización de eventos o seminarios: tfgs/2024/06-enterpriseeventsolutions-saas-pensado-para-organizacion-eventos/index.md
+      - Cowordle - Un juego competitivo online: tfgs/2023/07-cowordle-juego-competitivo-online/index.md
+      - OpenVPN4All - Suite para la creación y gestión de un servidor VPN: tfgs/2023/06-openvpn4all-suite-para-creacion-gestion-servidor/index.md
+      - Estudio de sistemas de integración continua de proyectos GitHub y GitLab: tfgs/2022/06-estudio-sistemas-integracion-continua-proyectos-github/index.md
+      - Construcción de dataset de pruebas end-to-end de proyectos GitHub: tfgs/2021/07-construccion-dataset-pruebas-end-to-end-proyectos-github/index.md
 
 extra_css:
   - style.css
