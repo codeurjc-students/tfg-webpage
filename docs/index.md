@@ -386,7 +386,7 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <p class="tfg-student">👨‍🎓 <strong>Álvaro Berdote Jiménez</strong></p>
 <p class="tfg-meta">📚 Grado En Ingeniería Informática</p>
 <p class="tfg-meta">📅 Junio de 2023</p>
-<p class="tfg-tutor">👤 Tutor: Michel Maes Bermejo</p>
+<p class="tfg-tutor">👤 Tutores: Michel Maes Bermejo y Vicente Belinchón</p>
 <div class="tfg-links">
 <a href="tfgs/2023/06-openvpn4all-suite-para-creacion-gestion-servidor/2022-23-ETSII-A-2059-2059037-a.berdote.2019-MEMORIA.pdf" class="btn-pdf btn-small">Memoria PDF</a>
 <a href="https://github.com/SeXde/OVPN4ALL" class="btn-github btn-small">GitHub</a>
@@ -408,7 +408,7 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <p class="tfg-student">👨‍🎓 <strong>Jorge Contreras Padilla</strong></p>
 <p class="tfg-meta">📚 Doble Grado en Ingeniería Informática e Ingeniería De Computadores</p>
 <p class="tfg-meta">📅 Junio de 2022</p>
-<p class="tfg-tutor">👤 Tutor: Michel Maes Bermejo</p>
+<p class="tfg-tutor">👤 Tutores: Francisco Gortázar Bellas y Michel Maes Bermejo</p>
 <div class="tfg-links">
 <a href="tfgs/2022/06-estudio-sistemas-integracion-continua-proyectos-github/2021-22-ETSII-A-2113-2113043-j.contrerasp-MEMORIA.pdf" class="btn-pdf btn-small">Memoria PDF</a>
 <a href="https://github.com/jorcontrerasp/CIReposFinder" class="btn-github btn-small">GitHub</a>
@@ -429,7 +429,7 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <p class="tfg-student">👨‍🎓 <strong>Jorge Contreras Padilla</strong></p>
 <p class="tfg-meta">📚 Doble Grado en Ingeniería Informática e Ingeniería De Computadores</p>
 <p class="tfg-meta">📅 Julio de 2021</p>
-<p class="tfg-tutor">👤 Tutor: Michel Maes Bermejo</p>
+<p class="tfg-tutor">👤 Tutores: Francisco Gortázar Bellas y Michel Maes Bermejo</p>
 <div class="tfg-links">
 <a href="tfgs/2021/07-construccion-dataset-pruebas-end-to-end-proyectos-github/2020-21-ETSII-A-2113-2113042-j.contrerasp-MEMORIA.pdf" class="btn-pdf btn-small">Memoria PDF</a>
 <a href="https://github.com/jorcontrerasp/BuscadorE2eGitHubRepos" class="btn-github btn-small">GitHub</a>

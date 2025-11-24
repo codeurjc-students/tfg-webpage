@@ -8,7 +8,7 @@
 </div>
 **Autor/a:** Álvaro Berdote Jiménez  
 **Grado:** Grado En Ingeniería Informática  
-**Tutor:** Michel Maes Bermejo  
+**Tutores:** Michel Maes Bermejo y Vicente Belinchón
 **Fecha de defensa:** Junio de 2023
 
 ## Resumen
