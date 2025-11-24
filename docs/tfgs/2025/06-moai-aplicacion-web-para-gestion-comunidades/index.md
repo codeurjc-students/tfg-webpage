@@ -22,7 +22,6 @@ El proyecto incorpora una estrategia de pruebas completa, que abarca tanto prueb
 Para gestionar el desarrollo del proyecto se ha seguido un flujo de trabajo basado en una variante simplificada de la metodología Git Flow. Además, se han integrado prácticas de DevOps mediante la automatización del proceso de integración y entrega continua con GitHub Actions. Este sistema automatizado se encarga de ejecutar pruebas, generar versiones del proyecto con etiquetas temporales y realizar el despliegue en Microsoft Azure, utilizando para ello contenedores Docker desplegados en Instancias de Contenedor de Azure.
 
 Por último, se reflexiona acerca de los resultados en las conclusiones, y se exponen algunas ideas de mejora de cara a posibles trabajos futuros.
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

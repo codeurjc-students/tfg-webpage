@@ -23,7 +23,6 @@ Para asegurar la calidad del software, el proyecto incorpora análisis estático
 
 Este documento detalla todas las etapas del proyecto: desde la introducción y la motivación inicial, pasando por la definición de objetivos y requisitos, el análisis de tecnologías y metodologías utilizadas, el diseño e implementación de la aplicación web, las pruebas y el análisis estático, hasta el despliegue en AWS, terminando con las conclusiones y propuestas de trabajos futuros.
 
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

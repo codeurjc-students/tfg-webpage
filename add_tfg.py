@@ -75,8 +75,6 @@ def main(json_file):
 
 {resume}
 
-## Tags
-
 <div class="tfg-tags">
 """ + '\n'.join(f'<span class="tag">{kw}</span>' for kw in keywords) + """
 </div>

@@ -21,7 +21,6 @@ La arquitectura de la aplicación se basa en un modelo de tres capas (frontend, 
 El trabajo detalla las distintas fases del proyecto, comenzando por la motivación inicial y la definición de los objetivos, pasando por el análisis de tecnologías y metodologías, y el diseño e implementación de la aplicación. También se incluyen las pruebas y su automatización, el empaquetado con Docker, y el despliegue final. El documento concluye con un análisis de los resultados y propuestas para futuros trabajos.
 
 
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

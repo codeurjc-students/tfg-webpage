@@ -25,7 +25,6 @@ La aplicación ha sido desarrollada utilizando tecnologías ampliamente reconoci
 Este proyecto demuestra cómo el enfoque sistemático en la calidad del software, junto con una arquitectura modular y bien estructurada, permite construir
 una aplicación funcional, robusta y lista para ser desplegada en producción.
 
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

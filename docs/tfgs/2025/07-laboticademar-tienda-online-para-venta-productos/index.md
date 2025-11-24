@@ -23,7 +23,6 @@ Se han incorporando prácticas DevOps que permiten un ciclo de vida del software
 
 Para organizar el desarrollo se siguió la metodología Scrum mediante objetivos semanales, además del uso de tablones Kanban para visualizar el avance de cada tarea y adaptar el plan de trabajo según las prioridades de las tareas pendientes.
 
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

@@ -42,7 +42,6 @@ La experiencia adquirida, especialmente en AWS, me ha brindado una perspectiva
 sólida sobre la importancia de la escalabilidad en el desarrollo de aplicaciones y
 cómo este enfoque será esencial en mi futuro profesional.
 
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>

@@ -22,7 +22,6 @@ La aplicación ha sido desplegada en un entorno de producción utilizando servic
 
 Este documento describe detalladamente las etapas del proyecto, desde el
 análisis de requisitos y el diseño de la arquitectura hasta las pruebas y el despliegue, reflexionando sobre los retos enfrentados y las posibles mejoras futuras.
-## Tags
 <div class="tfg-tags">
 <span class="tag">X</span>
 </div>
