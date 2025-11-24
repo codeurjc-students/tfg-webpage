@@ -29,7 +29,3 @@ docker run --rm -it -v ${PWD}:/docs -e GOOGLE_ANALYTICS_KEY=G-XXXXXXXX squidfunk
 ```bash
 docker run --name=mkdocs-publish --rm -it -u $(id -u):$(id -g) -v $SSH_AUTH_SOCK:/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
 ```
-
-## Mejoras de la web y el material
-
-Las tareas se gestionan en el [GitHub Project](https://github.com/orgs/codigus-dev/projects/1/views/1)

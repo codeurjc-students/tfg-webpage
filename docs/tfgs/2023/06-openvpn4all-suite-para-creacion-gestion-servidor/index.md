@@ -21,4 +21,8 @@ La solución propuesta incluye, tras un análisis de las tecnologías disponible
 - Gestión de usuarios con posibilidad de enviar el fichero de conexión por email. 
 - Configuración del servidor VPN con auto relleno en algunos campos. 
 - - Configuración del cliente de correo interno del servidor VPN para enviar las conexiones de cliente. - Desconexión y/o eliminación en tiempo real de usuarios. 
-- Descarga de logs del servidor.
+- Descarga de logs del servidor.-e 
+## Tags
+<div class="tfg-tags">
+<span class="tag">X</span>
+</div>

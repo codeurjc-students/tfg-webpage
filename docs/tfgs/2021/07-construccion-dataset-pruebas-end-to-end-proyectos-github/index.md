@@ -16,4 +16,8 @@
 En este proyecto se aborda la elaboración de un DataSet de proyectos que contengan pruebas
 end-to-end, aplicando minería de repositorios sobre la plataforma GitHub.
 Para ello se elabora un heurístico en base a una serie de criterios encargados de localizar pruebas
-de este tipo. Este heurístico se implementa mediante el lenguaje de programación Python.
+de este tipo. Este heurístico se implementa mediante el lenguaje de programación Python.-e 
+## Tags
+<div class="tfg-tags">
+<span class="tag">X</span>
+</div>
