@@ -20,5 +20,10 @@ El principal objetivo de este estudio es obtener información relativa a estos s
 En cuanto a los resultados obtenidos, a pesar de la gran cantidad de sistemas de integración continua existentes, cabría destacar que en proyectos de código abierto es cada vez más habitual la utilización de herramientas de integración continua proporcionados por la propia plataforma en la que se encuentran almacenados, ya sean GitHub o GitLab en el caso de este trabajo.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Python</span>
+<span class="tag">Integración continua (CI)</span>
+<span class="tag">Escenario o "stage"</span>
+<span class="tag">GitHub</span>
+<span class="tag">GitLab</span>
+<span class="tag">Build</span>
 </div>

@@ -23,5 +23,13 @@ Para gestionar el desarrollo del proyecto se ha seguido un flujo de trabajo basa
 
 Por último, se reflexiona acerca de los resultados en las conclusiones, y se exponen algunas ideas de mejora de cara a posibles trabajos futuros.
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Java</span>
+<span class="tag">JavaScript</span>
+<span class="tag">Vue.js</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Maven</span>
+<span class="tag">MySQL</span>
+<span class="tag">Git</span>
+<span class="tag">Docker</span>
+<span class="tag">Microsoft Azure</span>
 </div>

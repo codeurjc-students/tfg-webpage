@@ -18,5 +18,12 @@ En esta memoria se va a documentar todo el trabajo realizado para el desarrollo 
 A lo largo de este documento se explican las tecnologías usadas, como SvelteKit o Deno, también se explican aquellos sistemas que se hayan ido creando durante la realización de la aplicación, como los sistemas de tipados para la comunicación Websocket. Describiremos los objetivos y el avance de la aplicación a lo largo del tiempo, así como la arquitectura escogida, que cuenta con dos proyectos distintos, una webapp y un servidor de WebSockets. Se explicará el diseño visual inspirado por la aplicación de Wordle original. Finalmente se describirán cuales son las posibilidades para desplegar la aplicación utilizando GitHub y utilizando Docker.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Javascript</span>
+<span class="tag">Typescript</span>
+<span class="tag">Web</span>
+<span class="tag">Deno</span>
+<span class="tag">Node</span>
+<span class="tag">Socket.IO</span>
+<span class="tag">SvelteKit</span>
+<span class="tag">Wordle</span>
 </div>

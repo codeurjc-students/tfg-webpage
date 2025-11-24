@@ -22,5 +22,11 @@ El trabajo detalla las distintas fases del proyecto, comenzando por la motivaci�
 
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Aplicación web</span>
+<span class="tag">Java y Spring Boot</span>
+<span class="tag">Base de datos MySQL</span>
+<span class="tag">Docker y Docker Compose</span>
+<span class="tag">Pruebas de software</span>
+<span class="tag">Integración continua (CI/CD)</span>
+<span class="tag">Trunk Based Development</span>
 </div>

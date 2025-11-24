@@ -22,6 +22,14 @@ La aplicación ha sido desplegada en un entorno de producción utilizando servic
 
 Este documento describe detalladamente las etapas del proyecto, desde el
 análisis de requisitos y el diseño de la arquitectura hasta las pruebas y el despliegue, reflexionando sobre los retos enfrentados y las posibles mejoras futuras.
+
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Angular</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">AWS (Amazon Web Services)</span>
+<span class="tag">Docker</span>
+<span class="tag">EC2</span>
+<span class="tag">RDS</span>
+<span class="tag">DocumentDB</span>
+<span class="tag">S3</span>
 </div>

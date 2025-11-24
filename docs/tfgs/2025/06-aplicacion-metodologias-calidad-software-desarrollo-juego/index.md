@@ -26,5 +26,10 @@ Este proyecto demuestra cómo el enfoque sistemático en la calidad del software
 una aplicación funcional, robusta y lista para ser desplegada en producción.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Wordle</span>
+<span class="tag">Java</span>
+<span class="tag">Javascript</span>
+<span class="tag">MySQL</span>
+<span class="tag">Docker</span>
+<span class="tag">GitHub</span>
 </div>

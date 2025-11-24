@@ -21,5 +21,11 @@ Con el objetivo de validar la arquitectura propuesta, se ha desarrollado un caso
 Los resultados obtenidos demuestran la viabilidad y robustez de la arquitectura propuesta, que destaca por su modularidad, tolerancia a fallos y capacidad de adaptación. Además, la implementación confirma el potencial de AWS como entorno completo y flexible para el despliegue de aplicaciones basadas en inteligencia artificial. Como líneas futuras de trabajo, se plantea, entre otras, el uso de servicios con GPU, como Amazon SageMaker o Amazon EC2, la mejora de la capa de persistencia de datos con Amazon RDS y la ampliación de los mecanismos de autenticación, para una gestión más segura de los usuarios.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Vue.js</span>
+<span class="tag">Python</span>
+<span class="tag">Terraform</span>
+<span class="tag">Infrastructura como Código (IaC)</span>
+<span class="tag">FastAPI</span>
+<span class="tag">Docker</span>
+<span class="tag">Amazon Web Services</span>
 </div>

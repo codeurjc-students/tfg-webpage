@@ -29,5 +29,18 @@ pesadas que nos quitan tiempo o que incluso desechamos en nuestro día a día.
 Para enseñar las virtudes y beneficios de esta herramienta, se han desarrollado dos ejemplos prácticos que explicaremos a lo largo de esta memoria. El primer caso práctico está inspirado en "The Camelizer", una extensión de navegador para acceder a los cambios de precio de diversos artículos de Amazon. Se ha desarrollado un automatismo que replica este comportamiento, recogiendo datos de productos específicos y enviando notificaciones por correo electrónico en caso de cambios significativos en el precio. El flujo ha sido diseñado con una estructura modular y escalable, lo que permite adaptarlo fácilmente a otras plataformas de comercio electrónico como PCComponentes, Temu o similares, simplemente ajustando los selectores y las fuentes de datos. El segundo caso práctico se orienta a la recogida y análisis de datos en el ámbito deportivo, específicamente centrado en La Liga de fútbol profesional en España. Esta automatización extrae información de la clasificación y los resultados jornada tras jornada, almacenándolos y generando informes periódicos con las variaciones en la tabla y las rachas de los equipos. El flujo está pensado como una herramienta de apoyo para analistas deportivos, facilitando el seguimiento de patrones de rendimiento de forma automática. Si bien también podría emplearse con otros fines, como en el contexto de las apuestas deportivas.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">UiPath</span>
+<span class="tag">UiPath Studio IDE</span>
+<span class="tag">UiPath Assistant</span>
+<span class="tag">UiPath Cloud</span>
+<span class="tag">Orquestador</span>
+<span class="tag">Tenant</span>
+<span class="tag">Máquinas Destino</span>
+<span class="tag">Robotic Process Automation</span>
+<span class="tag">Testing Automatizado</span>
+<span class="tag">Cuentas de Robots</span>
+<span class="tag">Comparador de Precios</span>
+<span class="tag">Herramientas de análisis de datos</span>
+<span class="tag">Visual Basic</span>
+<span class="tag">Plataformas E-Commerce</span>
 </div>

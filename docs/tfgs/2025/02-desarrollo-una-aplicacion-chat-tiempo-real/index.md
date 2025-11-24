@@ -43,5 +43,12 @@ sólida sobre la importancia de la escalabilidad en el desarrollo de aplicacione
 cómo este enfoque será esencial en mi futuro profesional.
 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Angular</span>
+<span class="tag">Amazon Web Services (AWS)</span>
+<span class="tag">STOMP</span>
+<span class="tag">Docker</span>
+<span class="tag">Escalabilidad</span>
+<span class="tag">JSON Web Token (JWT)</span>
+<span class="tag">Broker de mensajes</span>
 </div>

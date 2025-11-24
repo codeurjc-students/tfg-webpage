@@ -17,8 +17,13 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/codeurjc-students/HealthCarer" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">Java</span>
-<span class="tag">Spring</span>
+<span class="tag">Aplicación web</span>
+<span class="tag">Java y Spring Boot</span>
+<span class="tag">Base de datos MySQL</span>
+<span class="tag">Docker y Docker Compose</span>
+<span class="tag">Pruebas de software</span>
+<span class="tag">Integración continua (CI/CD)</span>
+<span class="tag">Trunk Based Development</span>
 </div>
 
 </div>
@@ -34,8 +39,13 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/codeurjc-students/aws-ai-orchestrator" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">IA</span>
-<span class="tag">AWS</span>
+<span class="tag">Vue.js</span>
+<span class="tag">Python</span>
+<span class="tag">Terraform</span>
+<span class="tag">Infrastructura como Código (IaC)</span>
+<span class="tag">FastAPI</span>
+<span class="tag">Docker</span>
+<span class="tag">Amazon Web Services</span>
 </div>
 
 </div>
@@ -51,7 +61,15 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/elisaalcala/alcalapp" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Java</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Maven</span>
+<span class="tag">MySQL</span>
+<span class="tag">Hibernate</span>
+<span class="tag">Docker</span>
+<span class="tag">Microsoft Azure</span>
+<span class="tag">Git</span>
+<span class="tag">DevOps</span>
 </div>
 
 </div>
@@ -67,7 +85,14 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="XX" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Angular</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">AWS (Amazon Web Services)</span>
+<span class="tag">Docker</span>
+<span class="tag">EC2</span>
+<span class="tag">RDS</span>
+<span class="tag">DocumentDB</span>
+<span class="tag">S3</span>
 </div>
 
 </div>
@@ -83,7 +108,21 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/Atom52025/QuantumLibrary" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Java</span>
+<span class="tag">SpringBoot</span>
+<span class="tag">NextJS</span>
+<span class="tag">API REST</span>
+<span class="tag">BBDD</span>
+<span class="tag">Tailwind</span>
+<span class="tag">JUnit</span>
+<span class="tag">NextAuth</span>
+<span class="tag">NextUI</span>
+<span class="tag">AWS</span>
+<span class="tag">Tailwind</span>
+<span class="tag">CI/CD</span>
+<span class="tag">JWT</span>
+<span class="tag">SSL</span>
+<span class="tag">DOCKER</span>
 </div>
 
 </div>
@@ -99,7 +138,20 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="XX" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">UiPath</span>
+<span class="tag">UiPath Studio IDE</span>
+<span class="tag">UiPath Assistant</span>
+<span class="tag">UiPath Cloud</span>
+<span class="tag">Orquestador</span>
+<span class="tag">Tenant</span>
+<span class="tag">Máquinas Destino</span>
+<span class="tag">Robotic Process Automation</span>
+<span class="tag">Testing Automatizado</span>
+<span class="tag">Cuentas de Robots</span>
+<span class="tag">Comparador de Precios</span>
+<span class="tag">Herramientas de análisis de datos</span>
+<span class="tag">Visual Basic</span>
+<span class="tag">Plataformas E-Commerce</span>
 </div>
 
 </div>
@@ -115,7 +167,16 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/codeurjc-students/2025-ClinicaNutricion" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Gestión de citas</span>
+<span class="tag">AWS (Amazon Web Services)</span>
+<span class="tag">Java</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">React</span>
+<span class="tag">Cognito</span>
+<span class="tag">RDS (Relational Database Service)</span>
+<span class="tag">MySQL</span>
+<span class="tag">Elastic Beanstalk</span>
+<span class="tag">DevOps</span>
 </div>
 
 </div>
@@ -131,7 +192,12 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/alex-m-perez/LaBoticaDeMar" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Java</span>
+<span class="tag">SpringBoot</span>
+<span class="tag">Maven</span>
+<span class="tag">Tailwind</span>
+<span class="tag">JavaScript</span>
+<span class="tag">MySQL</span>
 </div>
 
 </div>
@@ -147,7 +213,15 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/migueld7/gestor_de_comunidades" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Java</span>
+<span class="tag">JavaScript</span>
+<span class="tag">Vue.js</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Maven</span>
+<span class="tag">MySQL</span>
+<span class="tag">Git</span>
+<span class="tag">Docker</span>
+<span class="tag">Microsoft Azure</span>
 </div>
 
 </div>
@@ -163,7 +237,11 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/ZAP-TFG/zap_automatice_web" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Python</span>
+<span class="tag">Ciberseguridad</span>
+<span class="tag">OWASP ZAP</span>
+<span class="tag">Flask</span>
+<span class="tag">IV</span>
 </div>
 
 </div>
@@ -179,7 +257,12 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/M-Serral/WordleApp" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Wordle</span>
+<span class="tag">Java</span>
+<span class="tag">Javascript</span>
+<span class="tag">MySQL</span>
+<span class="tag">Docker</span>
+<span class="tag">GitHub</span>
 </div>
 
 </div>
@@ -195,7 +278,14 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/DashShot/TFG_AITOR" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Angular</span>
+<span class="tag">Amazon Web Services (AWS)</span>
+<span class="tag">STOMP</span>
+<span class="tag">Docker</span>
+<span class="tag">Escalabilidad</span>
+<span class="tag">JSON Web Token (JWT)</span>
+<span class="tag">Broker de mensajes</span>
 </div>
 
 </div>
@@ -211,7 +301,13 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/Javiex7/Outsider" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Websocket</span>
+<span class="tag">Django</span>
+<span class="tag">Django Channels</span>
+<span class="tag">Testing</span>
+<span class="tag">Vue</span>
+<span class="tag">Docker</span>
+<span class="tag">AWS (Amazon Web Services)</span>
 </div>
 
 </div>
@@ -227,7 +323,15 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="XX" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Spring Boot</span>
+<span class="tag">Angular</span>
+<span class="tag">AWS (Amazon Web Services)</span>
+<span class="tag">CI/CD</span>
+<span class="tag">SAAS (Software As A Service)</span>
+<span class="tag">Selenium</span>
+<span class="tag">RestAssured</span>
+<span class="tag">API REST</span>
+<span class="tag">Bases de datos</span>
 </div>
 
 </div>
@@ -243,7 +347,13 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/ruky00/EnterpriseEventSolutions.git" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">EVS (Enterprise Event Solutions)</span>
+<span class="tag">AWS</span>
+<span class="tag">SpringBoot</span>
+<span class="tag">Vue</span>
+<span class="tag">Seguridad</span>
+<span class="tag">Web</span>
+<span class="tag">Docker</span>
 </div>
 
 </div>
@@ -259,7 +369,14 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/Dokest/cowordle -ws.git" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Javascript</span>
+<span class="tag">Typescript</span>
+<span class="tag">Web</span>
+<span class="tag">Deno</span>
+<span class="tag">Node</span>
+<span class="tag">Socket.IO</span>
+<span class="tag">SvelteKit</span>
+<span class="tag">Wordle</span>
 </div>
 
 </div>
@@ -275,7 +392,13 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/SeXde/OVPN4ALL" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">SpringBoot</span>
+<span class="tag">Sveltekit</span>
+<span class="tag">Bash scripting</span>
+<span class="tag">Java 11+</span>
+<span class="tag">TypeScript</span>
+<span class="tag">OpenVpn</span>
+<span class="tag">EasyRSA</span>
 </div>
 
 </div>
@@ -291,7 +414,12 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/jorcontrerasp/CIReposFinder" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Python</span>
+<span class="tag">Integración continua (CI)</span>
+<span class="tag">Escenario o "stage"</span>
+<span class="tag">GitHub</span>
+<span class="tag">GitLab</span>
+<span class="tag">Build</span>
 </div>
 
 </div>
@@ -307,7 +435,10 @@ Bienvenido al repositorio de Trabajos Fin de Grado del grupo docente CodeURJC.
 <a href="https://github.com/jorcontrerasp/BuscadorE2eGitHubRepos" class="btn-github btn-small">GitHub</a>
 </div>
 <div class="tfg-tags">
-<span class="tag">XX</span>
+<span class="tag">Testing</span>
+<span class="tag">End-to-end tests</span>
+<span class="tag">Integration tests</span>
+<span class="tag">E2e</span>
 </div>
 
 </div>

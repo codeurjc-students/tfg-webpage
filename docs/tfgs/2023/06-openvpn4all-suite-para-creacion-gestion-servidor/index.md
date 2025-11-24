@@ -23,5 +23,11 @@ La solución propuesta incluye, tras un análisis de las tecnologías disponible
 - - Configuración del cliente de correo interno del servidor VPN para enviar las conexiones de cliente. - Desconexión y/o eliminación en tiempo real de usuarios. 
 - Descarga de logs del servidor.-e 
 <div class="tfg-tags">
-<span class="tag">X</span>
+<span class="tag">SpringBoot</span>
+<span class="tag">Sveltekit</span>
+<span class="tag">Bash scripting</span>
+<span class="tag">Java 11+</span>
+<span class="tag">TypeScript</span>
+<span class="tag">OpenVpn</span>
+<span class="tag">EasyRSA</span>
 </div>
