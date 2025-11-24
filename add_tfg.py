@@ -4,6 +4,7 @@ import os
 import sys
 import re
 from pathlib import Path
+import yaml
 
 def slugify(text):
     # Convertir a minúsculas, reemplazar espacios y caracteres no alfanuméricos por guiones
@@ -33,7 +34,7 @@ def main(json_file):
     author = data['author']
     tutor = data['tutor']
     degree = data['degree']
-    year = data['year']
+    year = int(data['year'])
     month = data['month']
     pdf_link = data['pdf_link']
     github_link = data['github_link']
@@ -116,6 +117,31 @@ def main(json_file):
     
     new_content = content[:insert_pos] + card_content + content[insert_pos:]
     index_file.write_text(new_content, encoding='utf-8')
+    
+    # Actualizar mkdocs.yml
+    with open('mkdocs.yml', 'r', encoding='utf-8') as f:
+        config = yaml.safe_load(f)
+    
+    tfgs_nav = config['nav'][1]['Trabajos Fin de Grado']
+    
+    # Path del nuevo TFG
+    tfg_path = f"tfgs/{year}/{folder_name}/index.md"
+    
+    year_found = False
+    for year_dict in tfgs_nav:
+        if year in year_dict:
+            year_dict[year].insert(0, {title: tfg_path})
+            year_found = True
+            break
+    
+    if not year_found:
+        tfgs_nav.insert(0, {year: [{title: tfg_path}]})
+    
+    # Ordenar los años en orden descendente
+    tfgs_nav.sort(key=lambda d: list(d.keys())[0], reverse=True)
+    
+    with open('mkdocs.yml', 'w', encoding='utf-8') as f:
+        yaml.safe_dump(config, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
     
     print(f"TFG añadido exitosamente en {folder_path}")
 

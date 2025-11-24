@@ -65,6 +65,8 @@ Replace `path/to/your_tfg.json` with the actual path to your JSON file.
 
 3. **Updates the Main Index**: Inserts a new card at the top of `docs/index.md` to display the TFG, ensuring the list is sorted by date (newest first).
 
+4. **Updates the Navigation**: Adds the TFG to the appropriate year section in `mkdocs.yml`, maintaining the descending order of years and adding to the top of the year's list.
+
 ## Important Notes
 
 - Ensure the JSON is valid and all fields are filled correctly.
